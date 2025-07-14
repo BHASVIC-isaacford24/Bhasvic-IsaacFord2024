@@ -1,1 +1,3 @@
-# Bhasvic-IsaacFord2024
+# My name is Isaac ford and I am a student at bhasvic currently studying maths, computer science and fine art moving into my second year at the collage. As far as professional goals go, i currently dont posess any outlying ambitions within any fields, but i am intrested in all of my subjects and wish to persue them further moving onto carrears. I am mostly interested in persuing maths and art into my work but i still posess an interest in computer science industries. At the moment in computer science i am working on my coarse work which will be a competative card game made within unity. I have compleated many computing workshops and have a GCSE in computer science. I posess skills such as communication and teamwork from my work during my current coarses and there assigned group work.
+[This is a link to some of my preveous work within the coarse]
+(https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-isaacford24)
